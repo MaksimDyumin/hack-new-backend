@@ -17,8 +17,6 @@ Next you need migrate db
 
 ```python manage.py migrate```
 
-```source venv/bin/activate```
-
 ## Start app
 
 ```python manage.py runserver```
